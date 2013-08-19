@@ -55,13 +55,13 @@ form { position: relative; }
 form.search { width: 100%; }
 form.search a.submit { position:absolute; top: 0; right:0; display: block; width: 40px; height: 100%; border-left: 1px solid #eee; background: url(../images/icon-search-15x15.png) center 12px no-repeat;}
 textarea {width: 100%; margin: 0 0 20px 0;}
-
+.hero .buttons a { padding: 10px 20px; border:1px solid #333;}
 
 /* #Misc
 ================================================== */
 
 .nav { position: relative; background-color: #000; height:50px; text-align: left; border-bottom: 1px solid #eee; margin:0; padding-left: 20px;}
-.hero { position:relative; background-color:#e8e8e8; border-bottom: 1px solid #ccc; margin-bottom: 40px; height: 480px;}
+.hero { position:relative; background-color:#e8e8e8; border-bottom: 1px solid #ccc; margin-bottom: 40px; height: 480px; text-align: center;}
 
 .nav ul { position: absolute; top:0; right:0; height: 50px; margin: 0; padding: 0; list-style-type: none; }
 .nav li { float: left; vertical-align:middle; padding:0 20px;}
